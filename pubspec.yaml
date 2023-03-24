@@ -1,0 +1,13 @@
+name: quic
+description: QUIC protocol implementation written in pure Dart
+version: 1.0.0
+repository: https://github.com/perbone/quic
+
+environment:
+  sdk: ^3.0.0-356.0.dev
+
+dependencies:
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
